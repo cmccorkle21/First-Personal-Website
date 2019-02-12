@@ -115,7 +115,7 @@
 		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(155, 22, 0, 0.5) 5%, rgba(0, 0, 0, 0.35)), url("../../images/bg.jpg");
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(155, 22, 0, 0.5) 5%, rgba(0, 0, 0, 0.35)), url("../../images/bg.jpg");
 		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(155, 22, 0, 0.5) 5%, rgba(0, 0, 0, 0.35)), url("../../images/bg.jpg");
-		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(155, 22, 0, 0.5) 5%, rgba(0, 0, 0, 0.35)), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(155, 22, 0, 0.5) 5%, rgba(0, 0, 0, 0.35))=, url("../../images/bg.jpg");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
@@ -196,7 +196,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #000000;
 		}
 
 	strong, b {
@@ -755,7 +755,7 @@
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+					text-shadow: 1.25px 0px 0px #9b1600, -1.25px 0px 0px #9b1600, 0px 1.25px 0px #9b1600, 0px -1.25px 0px #9b1600;
 				}
 
 				ul.icons li a:before {
