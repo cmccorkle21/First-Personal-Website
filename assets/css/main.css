@@ -756,7 +756,7 @@
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1px 0px 0px #9b1600, -1px 0px 0px #9b1600, 0px 1px 0px #9b1600, 0px -1px 0px #9b1600;
+					text-shadow: 1px 0px 0px #002c94, -1px 0px 0px #002c94, 0px 1px 0px #002c94, 0px -1px 0px #9b1600;
 				}
 
 				ul.icons li a:before {
@@ -772,7 +772,7 @@
 				}
 
 				ul.icons li a:hover {
-					border-color: #9b1600;
+					border-color: #002c94;
 				}
 
 		@media screen and (max-width: 480px) {
