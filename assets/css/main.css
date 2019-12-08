@@ -733,7 +733,7 @@
 				width: 3.75em;
 				height: 3.75em;
 				border-radius: 100%;
-				border: solid 1px #c8cccf;
+				border: solid 1px #000000;
 				line-height: 3.75em;
 				overflow: hidden;
 				text-align: center;
@@ -751,12 +751,12 @@
 				}
 
 				ul.icons li a:before {
-					color: #ffffff;
-					text-shadow: 1px 0px 0px #c8cccf, -1px 0px 0px #c8cccf, 0px 1px 0px #c8cccf, 0px -1px 0px #c8cccf;
+					color: #000000;
+					text-shadow: 1px 0px 0px #ffffff, -1px 0px 0px #ffffff, 0px 1px 0px #ffffff, 0px -1px 0px #ffffff;
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1px 0px 0px #002c94, -1px 0px 0px #002c94, 0px 1px 0px #002c94, 0px -1px 0px #9b1600;
+					text-shadow: 1px 0px 0px #ffffff, -1px 0px 0px #ffffff, 0px 1px 0px #ffffff, 0px -1px 0px #ffffff;
 				}
 
 				ul.icons li a:before {
